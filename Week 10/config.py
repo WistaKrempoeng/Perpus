@@ -37,25 +37,25 @@ ARTIKEL_PERPUSTAKAAN = [
         "Title": "5 Hots of the best fiction books this month",
         "Conclusion": "Temukan lima Title fiksi terbaru yang tersedia di rak perpustakaan "
                      "kami, mulai dari novel misteri hingga fantasi epik.",
-        "Category": "Rekomendasi",
+        "Category": "Recommendation",
     },
     {
-        "Title": "Tips Efektif Membaca Cepat",
+        "Title": "Effective tips on reading fast",
         "Conclusion": "Pelajari teknik speed reading sederhana agar kamu bisa menyelesaikan "
                      "lebih banyak buku tanpa kehilangan pemahaman isi bacaan.",
-        "Category": "Tips & Trik",
+        "Category": "Tips & Trick",
     },
     {
-        "Title": "Jadwal Kunjungan & Jam Operasional",
+        "Title": "Visiting schedule & Operating hours",
         "Conclusion": "Perpustakaan buka setiap hari Senin-Sabtu pukul 08.00-16.00. "
                      "Cek jadwal lengkap dan agenda kegiatan bulanan di sini.",
-        "Category": "Pengumuman",
+        "Category": "Announcement",
     },
     {
-        "Title": "Cara Meminjam Buku Secara Online",
-        "Conclusion": "Setelah login, anggota dapat memesan buku secara online dan "
-                     "mengambilnya langsung di meja sirkulasi perpustakaan.",
-        "Category": "Panduan",
+        "Title": "Steps on borrowing books online",
+        "Conclusion": "after login, members can order books online and "
+                     "retrieve them at the circulatory desk in the library.",
+        "Category": "Help & support",
     },
 ]
 
